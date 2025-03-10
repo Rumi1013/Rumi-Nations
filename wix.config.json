@@ -4,5 +4,8 @@
   "description": "Rumi Nations website",
   "dependencies": {
     "@wix/sdk": "latest"
-  }
+  },
+  "siteId": "a8b56df0-5444-46fd-ae4a-935d24db269e",
+  "uiVersion": "1.0.0",
+  "api": "IST.eyJraWQiOiJQb3pIX2FDMiIsImFsZyI6IlJTMjU2In0.eyJkYXRhIjoie1wiaWRcIjpcImNkYzQxZjIxLWNhMDUtNDc4MS1hMzc1LTA4M2Q0NmJmOTYzZVwiLFwiaWRlbnRpdHlcIjp7XCJ0eXBlXCI6XCJhcHBsaWNhdGlvblwiLFwiaWRcIjpcIjFiYzcwMjRhLWExNzUtNGVhOC04YjQyLWY2M2M5ZTQzNzY3YlwifSxcInRlbmFudFwiOntcInR5cGVcIjpcImFjY291bnRcIixcImlkXCI6XCI0ZTE2NGVhNy01OWYwLTQzYjEtOGRkMi1jYjg3MjRlOWY0ZmFcIn19IiwiaWF0IjoxNzQxNjEzMDU5fQ.XkGp-LIo1WJlCwpVwZeOAK75iRasNdVDOUKCqsvVwiBrnb4-263vGRAKlSTydhkCgLFaat4B_gp1zC2SA-hlzuTr5k2vcAJmq3waK413FGQOJ9Tlxo-lPF2e2lceDnLpGD-1ujuL88h44YSCX_C8d9YONNKt0ExoaYCMkyu1wRjUJeaPUqwQ18wkPFF_580n8NHVygCgxS1_z2qk-1SJFbtfFFlfrfhIycZsfAoo93hXwwgIMJkFSdCvQitnc5zElR9rcr7T8VwTvZ4hb11nrBTa_RhszflHul0iTZn5IACnb_GZdQ60n3sZpWwPJrO-GhklFovyrJC2oGwIZ9NoeQ"
 }
