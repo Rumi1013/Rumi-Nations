@@ -1,0 +1,8 @@
+{
+  "name": "rumi-nations",
+  "version": "1.0.0",
+  "description": "Rumi Nations website",
+  "dependencies": {
+    "@wix/sdk": "latest"
+  }
+}
