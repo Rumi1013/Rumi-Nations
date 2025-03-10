@@ -1,0 +1,25 @@
+{
+  "name": "midnight-magnolia",
+  "version": "1.0.0",
+  "description": "Midnight Magnolia website with Southern Gothic aesthetics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo 'No build step required for Wix deployment'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rumi1013/midnight-magnolia.git"
+  },
+  "keywords": [
+    "midnight-magnolia",
+    "southern-gothic",
+    "wix"
+  ],
+  "author": "Latisha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rumi1013/midnight-magnolia/issues"
+  },
+  "homepage": "https://github.com/Rumi1013/midnight-magnolia#readme"
+}

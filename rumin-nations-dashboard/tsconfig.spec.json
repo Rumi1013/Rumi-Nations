@@ -1,0 +1,10 @@
+{
+    "extends": "./tsconfig.json",
+    "compilerOptions": {
+      "outDir": "./dist/spec",
+      "module": "CommonJS",
+      "types": ["jest", "node"],
+      "jsx": "react-jsx"
+    },
+    "include": ["src/**/*.spec.ts", "src/**/*.test.ts", "src/**/*.d.ts"]
+  }
