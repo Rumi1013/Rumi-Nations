@@ -3,7 +3,7 @@ const { execSync } = require('child_process');
 
 // Migrate the current repository to a new one with Wix integration
 console.log('Migrating repository to new one with Wix integration...');
-
+execSync('git init', { stdio: 'inherit' });
 try {
   // Create and switch to a new branch
   execSync('git checkout -b wix-integration', { stdio: 'inherit' });
