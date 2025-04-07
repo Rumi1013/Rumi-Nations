@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "rumi-nations",
   "version": "1.0.0",
   "description": "Rumi Nations website built with Wix Velo",
@@ -8,23 +9,27 @@
     "push": "wix push",
     "serve": "wix serve",
     "build:wix": "node scripts/build-for-wix.js",
-    "deploy": "npm run build:wix && wix push"
+    "deploy": "npm run build:wix && wix push",
+    "optimize": "node scripts/optimize-assets.mjs"
   },
   "dependencies": {
+    "@radix-ui/react-slot": "latest",
     "@wix/backend": "^1.0.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-react": "^0.479.0",
-    "tailwind-merge": "^3.0.2",
-    "tailwindcss-animate": "^1.0.7",
     "next-themes": "latest",
-    "@radix-ui/react-slot": "latest"
+    "tailwind-merge": "^3.0.2",
+    "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
     "@wix/cli": "^1.0.0",
-    "typescript": "^5.0.0",
     "autoprefixer": "^10.4.14",
+    "imagemin": "^9.0.1",
+    "imagemin-mozjpeg": "^10.0.0",
     "postcss": "^8.4.24",
-    "tailwindcss": "^3.3.2"
+    "tailwindcss": "^3.3.2",
+    "typescript": "^5.0.0",
+    "uglify-js": "^3.19.3"
   }
 }
